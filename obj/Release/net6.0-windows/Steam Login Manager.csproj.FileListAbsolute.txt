@@ -1,0 +1,19 @@
+E:\Software Engineering\WPF\Steam_Login_Manager\bin\Release\net6.0-windows\Steam Login Manager.exe
+E:\Software Engineering\WPF\Steam_Login_Manager\bin\Release\net6.0-windows\Steam Login Manager.dll.config
+E:\Software Engineering\WPF\Steam_Login_Manager\bin\Release\net6.0-windows\Steam Login Manager.deps.json
+E:\Software Engineering\WPF\Steam_Login_Manager\bin\Release\net6.0-windows\Steam Login Manager.runtimeconfig.json
+E:\Software Engineering\WPF\Steam_Login_Manager\bin\Release\net6.0-windows\Steam Login Manager.dll
+E:\Software Engineering\WPF\Steam_Login_Manager\bin\Release\net6.0-windows\Steam Login Manager.pdb
+E:\Software Engineering\WPF\Steam_Login_Manager\obj\Release\net6.0-windows\Steam Login Manager.csproj.AssemblyReference.cache
+E:\Software Engineering\WPF\Steam_Login_Manager\obj\Release\net6.0-windows\Steam_Login_Manager.SteamUserManager.resources
+E:\Software Engineering\WPF\Steam_Login_Manager\obj\Release\net6.0-windows\Steam_Login_Manager.Properties.Resources.resources
+E:\Software Engineering\WPF\Steam_Login_Manager\obj\Release\net6.0-windows\Steam Login Manager.csproj.GenerateResource.cache
+E:\Software Engineering\WPF\Steam_Login_Manager\obj\Release\net6.0-windows\Steam Login Manager.GeneratedMSBuildEditorConfig.editorconfig
+E:\Software Engineering\WPF\Steam_Login_Manager\obj\Release\net6.0-windows\Steam Login Manager.AssemblyInfoInputs.cache
+E:\Software Engineering\WPF\Steam_Login_Manager\obj\Release\net6.0-windows\Steam Login Manager.AssemblyInfo.cs
+E:\Software Engineering\WPF\Steam_Login_Manager\obj\Release\net6.0-windows\Steam Login Manager.csproj.CoreCompileInputs.cache
+E:\Software Engineering\WPF\Steam_Login_Manager\obj\Release\net6.0-windows\Steam Login Manager.dll
+E:\Software Engineering\WPF\Steam_Login_Manager\obj\Release\net6.0-windows\refint\Steam Login Manager.dll
+E:\Software Engineering\WPF\Steam_Login_Manager\obj\Release\net6.0-windows\Steam Login Manager.pdb
+E:\Software Engineering\WPF\Steam_Login_Manager\obj\Release\net6.0-windows\Steam Login Manager.genruntimeconfig.cache
+E:\Software Engineering\WPF\Steam_Login_Manager\obj\Release\net6.0-windows\ref\Steam Login Manager.dll

@@ -1,0 +1,19 @@
+E:\Software Engineering\WPF\Steam_Login_Manager\bin\Debug\net6.0-windows\Steam User Manager.exe
+E:\Software Engineering\WPF\Steam_Login_Manager\bin\Debug\net6.0-windows\Steam User Manager.dll.config
+E:\Software Engineering\WPF\Steam_Login_Manager\bin\Debug\net6.0-windows\Steam User Manager.deps.json
+E:\Software Engineering\WPF\Steam_Login_Manager\bin\Debug\net6.0-windows\Steam User Manager.runtimeconfig.json
+E:\Software Engineering\WPF\Steam_Login_Manager\bin\Debug\net6.0-windows\Steam User Manager.dll
+E:\Software Engineering\WPF\Steam_Login_Manager\bin\Debug\net6.0-windows\Steam User Manager.pdb
+E:\Software Engineering\WPF\Steam_Login_Manager\obj\Debug\net6.0-windows\Steam User Manager.csproj.AssemblyReference.cache
+E:\Software Engineering\WPF\Steam_Login_Manager\obj\Debug\net6.0-windows\Steam_Login_Manager.SteamUserManager.resources
+E:\Software Engineering\WPF\Steam_Login_Manager\obj\Debug\net6.0-windows\Steam_User_Manager.Properties.Resources.resources
+E:\Software Engineering\WPF\Steam_Login_Manager\obj\Debug\net6.0-windows\Steam User Manager.csproj.GenerateResource.cache
+E:\Software Engineering\WPF\Steam_Login_Manager\obj\Debug\net6.0-windows\Steam User Manager.GeneratedMSBuildEditorConfig.editorconfig
+E:\Software Engineering\WPF\Steam_Login_Manager\obj\Debug\net6.0-windows\Steam User Manager.AssemblyInfoInputs.cache
+E:\Software Engineering\WPF\Steam_Login_Manager\obj\Debug\net6.0-windows\Steam User Manager.AssemblyInfo.cs
+E:\Software Engineering\WPF\Steam_Login_Manager\obj\Debug\net6.0-windows\Steam User Manager.csproj.CoreCompileInputs.cache
+E:\Software Engineering\WPF\Steam_Login_Manager\obj\Debug\net6.0-windows\Steam User Manager.dll
+E:\Software Engineering\WPF\Steam_Login_Manager\obj\Debug\net6.0-windows\refint\Steam User Manager.dll
+E:\Software Engineering\WPF\Steam_Login_Manager\obj\Debug\net6.0-windows\Steam User Manager.pdb
+E:\Software Engineering\WPF\Steam_Login_Manager\obj\Debug\net6.0-windows\Steam User Manager.genruntimeconfig.cache
+E:\Software Engineering\WPF\Steam_Login_Manager\obj\Debug\net6.0-windows\ref\Steam User Manager.dll
